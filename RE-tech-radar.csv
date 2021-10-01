@@ -15,19 +15,19 @@ Google Cloud,assess,platforms&services,FALSE,
 AWS S3 (as artifact storage),hold,platforms&services,FALSE,
 AWS EKS,hold,platforms&services,FALSE,
 Rancher,hold,platforms&services,FALSE,
-micro services arch,adopt,techniques&practices,FALSE,<a href="https://martinfowler.com/articles/microservices.html">Microservices article</a>, <a href="https://martinfowler.com/microservices/">Microservices guide</a>
+micro services arch,adopt,techniques&practices,FALSE,"<a href='https://martinfowler.com/articles/microservices.html'>Microservices article</a>, <a href='https://martinfowler.com/microservices/'>Microservices guide</a>"
 Gitlab flow,trial,techniques&practices,FALSE,
 CIOps,trial,techniques&practices,FALSE,
 Code review,trial,techniques&practices,FALSE,
 Code style,trial,techniques&practices,FALSE,
-Semantic versions,trial,techniques&practices,FALSE,<a href="https://semver.org/">semver.org</a>
+Semantic versions,trial,techniques&practices,FALSE,"<a href='https://semver.org/'>semver.org</a>"
 Kubeflow,assess,techniques&practices,FALSE,
 Argo workflow,assess,techniques&practices,FALSE,
 Github flow,assess,techniques&practices,FALSE,
 Code linting as a service,assess,techniques&practices,FALSE,
 GitOps,assess,techniques&practices,FALSE,
-Trunk-Based Development,assess,techniques&practices,FALSE,<a href="https://trunkbaseddevelopment.com/">trunkbaseddevelopment.com</a>
-ML Flow,assess,techniques&practices,FALSE,<a href="https://mlflow.org/">mlflow.org</a>
+Trunk-Based Development,assess,techniques&practices,FALSE,"<a href='https://trunkbaseddevelopment.com/'>trunkbaseddevelopment.com</a>"
+ML Flow,assess,techniques&practices,FALSE,"<a href='https://mlflow.org/'>mlflow.org</a>"
 Git flow,hold,techniques&practices,FALSE,
 Gitlab (as git),adopt,tools,FALSE,
 Gitlab CI/CD,adopt,tools,FALSE,
