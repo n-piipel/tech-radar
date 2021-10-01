@@ -1,47 +1,46 @@
 name,ring,quadrant,isNew,description
 Python 3,adopt,languages&frameworks,FALSE,
-Bash,trial,languages&frameworks,FALSE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
-Makefiles,trial,languages&frameworks,FALSE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
+Bash,trial,languages&frameworks,FALSE,
+Makefiles,trial,languages&frameworks,FALSE,
 Golang,assess,languages&frameworks,FALSE,
-Python 2,hold,languages&frameworks,FALSE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
-Rancher2,adopt,platforms&services,FALSE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
+Python 2,hold,languages&frameworks,FALSE,
+Rancher2,adopt,platforms&services,FALSE,
 EC Platform Orcestration,adopt,platforms&services,FALSE,
 EC Platform Monitoring,adopt,platforms&services,FALSE,
 EC Platform Logging,adopt,platforms&services,FALSE,
-AWS Lambda,trial,platforms&services,FALSE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
+AWS Lambda,trial,platforms&services,FALSE,
 Nexus (as artifact storage),trial,platforms&services,FALSE,
 EC Platfrorm Build&Deploy,trial,platforms&services,FALSE,
-Google Cloud,assess,platforms&services,FALSE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
-AWS S3 (as artifact storage),hold,platforms&services,FALSE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
-AWS EKS,hold,platforms&services,FALSE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
-Rancher,hold,platforms&services,FALSE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
-micro services arch,adopt,techniques&practices,FALSE,"https://martinfowler.com/articles/microservices.html
-https://martinfowler.com/microservices/"
-Gitlab flow,trial,techniques&practices,FALSE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
+Google Cloud,assess,platforms&services,FALSE,
+AWS S3 (as artifact storage),hold,platforms&services,FALSE,
+AWS EKS,hold,platforms&services,FALSE,
+Rancher,hold,platforms&services,FALSE,
+micro services arch,adopt,techniques&practices,FALSE,<a href="https://martinfowler.com/articles/microservices.html">martinfowler.com</a><a href="https://martinfowler.com/microservices/">martinfowler.com</a>
+Gitlab flow,trial,techniques&practices,FALSE,
 CIOps,trial,techniques&practices,FALSE,
 Code review,trial,techniques&practices,FALSE,
 Code style,trial,techniques&practices,FALSE,
-Semantic versions,trial,techniques&practices,FALSE,https://semver.org/
-Kubeflow,assess,techniques&practices,FALSE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
-Argo workflow,assess,techniques&practices,FALSE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
-Github flow,assess,techniques&practices,FALSE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
-Code linting as a service,assess,techniques&practices,FALSE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
+Semantic versions,trial,techniques&practices,FALSE,<a href="https://semver.org/">semver.org</a>
+Kubeflow,assess,techniques&practices,FALSE,
+Argo workflow,assess,techniques&practices,FALSE,
+Github flow,assess,techniques&practices,FALSE,
+Code linting as a service,assess,techniques&practices,FALSE,
 GitOps,assess,techniques&practices,FALSE,
-Trunk-Based Development,assess,techniques&practices,FALSE,https://trunkbaseddevelopment.com/
-ML Flow,assess,techniques&practices,FALSE,https://mlflow.org/
-Git flow,hold,techniques&practices,FALSE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
-Gitlab (as git),adopt,tools,FALSE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
-Gitlab CI/CD,adopt,tools,FALSE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
-ArgoCD,trial,tools,FALSE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
-helm 3,trial,tools,FALSE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
-kustomize,trial,tools,FALSE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
-GitLab Auto DevOps,assess,tools,FALSE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
-fluxcd,assess,tools,FALSE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
-docker-compose,assess,tools,FALSE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
-Jenkins,assess,tools,FALSE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
+Trunk-Based Development,assess,techniques&practices,FALSE,<a href="https://trunkbaseddevelopment.com/">trunkbaseddevelopment.com</a>
+ML Flow,assess,techniques&practices,FALSE,<a href="https://mlflow.org/">mlflow.org</a>
+Git flow,hold,techniques&practices,FALSE,
+Gitlab (as git),adopt,tools,FALSE,
+Gitlab CI/CD,adopt,tools,FALSE,
+ArgoCD,trial,tools,FALSE,
+helm 3,trial,tools,FALSE,
+kustomize,trial,tools,FALSE,
+GitLab Auto DevOps,assess,tools,FALSE,
+fluxcd,assess,tools,FALSE,
+docker-compose,assess,tools,FALSE,
+Jenkins,assess,tools,FALSE,
 Ansible,assess,tools,FALSE,
 werf,assess,tools,FALSE,
 fleet,assess,tools,FALSE,
 Terraform,assess,tools,FALSE,
 helm 2,hold,tools,FALSE,
-TeamCity,hold,tools,FALSE,"This is the description. You can use basic html such as the <strong>strong tag to emphasise keywords and phrases</strong> and insert <a href=""https://www.thoughtworks.com"">anchor links to documentation and referance material</a>."
+TeamCity,hold,tools,FALSE,
